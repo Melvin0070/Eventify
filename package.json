@@ -1,0 +1,30 @@
+{
+  "name": "eventify",
+  "version": "1.0.0",
+  "description": "Capstone Project by Melvin showcasing a platform to streamline discovering, managing, and attending student events and festivals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melvin0070/Eventify.git"
+  },
+  "keywords": [
+    "event",
+    "discovery"
+  ],
+  "author": "Melvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Melvin0070/Eventify/issues"
+  },
+  "homepage": "https://github.com/Melvin0070/Eventify#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
